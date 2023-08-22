@@ -13,7 +13,7 @@ public class Exercicio06 {
             if(numerDigitado >= 18 ){
                 numerosMaiores ++;
             }
-    |    }
+       }
 
 
         System.out.println("Esse é o numero de pessoas maiores de idade: " + numerosMaiores);
